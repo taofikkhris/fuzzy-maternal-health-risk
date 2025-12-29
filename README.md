@@ -1,4 +1,5 @@
 # Maternal Health Risk Prediction - Fuzzy Logic System
+Taofik Krisdiyanto
 
 Sistem pakar berbasis **Logika Fuzzy (Mamdani Inference)** untuk memprediksi tingkat risiko kesehatan ibu hamil berdasarkan parameter fisiologis.
 
